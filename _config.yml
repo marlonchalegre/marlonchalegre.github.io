@@ -18,14 +18,16 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: MCP - Personal Site
+title: Marlon Chalegre
 email: marlonchalegre@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Just a personal site with a bunch of URLs.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "https://blog.mcp.dev.br" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: marlonchelegre
+github_username:  marlonchalegre
+bluesky_username: mcp.dev.br
+masto_username: mcp@toot.community
 
 # Build settings
 #theme: jekyll-theme-hamilton
