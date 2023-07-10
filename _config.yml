@@ -38,7 +38,7 @@ minima:
     - { platform: github, user_url: "https://github.com/marlonchalegre/" }
     - { platform: twitter, user_url: "https://twitter.com/marlonchalegre" }
     - { platform: linkedin, user_url: "https://www.linkedin.com/in/marlonchalegre/" }
-    - { platform: mastodon, user_url: "https://www.bolha.us/@mcp" }
+    - { platform: mastodon, user_url: "https://bolha.us/@mcp" }
 
 # Exclude from processing.
 # The following items will not be processed, by default.
