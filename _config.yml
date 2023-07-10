@@ -26,7 +26,6 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://blog.mcp.dev.br" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
-#theme: jekyll-theme-hamilton
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
@@ -39,6 +38,8 @@ minima:
     - { platform: twitter, user_url: "https://twitter.com/marlonchalegre" }
     - { platform: linkedin, user_url: "https://www.linkedin.com/in/marlonchalegre/" }
     - { platform: mastodon, user_url: "https://bolha.us/@mcp" }
+
+show_excerpts: true
 
 # Exclude from processing.
 # The following items will not be processed, by default.
